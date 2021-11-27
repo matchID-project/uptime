@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/deces.matchid.io",
     "slug": "deces-matchid-io-website",
     "status": "up",
-    "uptime": "0.61%",
-    "uptimeDay": "0.61%",
-    "uptimeWeek": "0.61%",
-    "uptimeMonth": "0.61%",
-    "uptimeYear": "0.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 296,
     "timeDay": 296,
     "timeWeek": 296,
     "timeMonth": 296,
     "timeYear": 296,
-    "dailyMinutesDown": {
-      "2021-11-27": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "deces.matchid.io search API",
@@ -61,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/dev-deces.matchid.io",
     "slug": "dev-deces-matchid-io-website",
     "status": "up",
-    "uptime": "0.45%",
-    "uptimeDay": "0.45%",
-    "uptimeWeek": "0.45%",
-    "uptimeMonth": "0.45%",
-    "uptimeYear": "0.45%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 262,
     "timeDay": 262,
     "timeWeek": 262,
     "timeMonth": 262,
     "timeYear": 262,
-    "dailyMinutesDown": {
-      "2021-11-27": 15
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dev-deces.matchid.io search API",
