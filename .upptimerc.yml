@@ -32,6 +32,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   faviconSvg: https://matchid.io/assets/images/favicon.svg
   # baseUrl: /your-repo-name
+  cname: uptime.matchid.io
   logoUrl: https://matchid.io/assets/images/favicon.svg
   name: Statut matchID
   introTitle: "**matchID**"
