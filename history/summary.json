@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/deces.matchid.io",
     "slug": "deces-matchid-io-website",
     "status": "down",
-    "uptime": "1.14%",
-    "uptimeDay": "1.14%",
-    "uptimeWeek": "1.14%",
-    "uptimeMonth": "1.14%",
-    "uptimeYear": "1.14%",
+    "uptime": "0.96%",
+    "uptimeDay": "0.96%",
+    "uptimeWeek": "0.96%",
+    "uptimeMonth": "0.96%",
+    "uptimeYear": "0.96%",
     "time": 374,
     "timeDay": 374,
     "timeWeek": 374,
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2021-11-27": 1
+      "2021-11-27": 2
     }
   },
   {
@@ -43,19 +43,17 @@
     "icon": "https://favicons.githubusercontent.com/deces.matchid.io",
     "slug": "deces-matchid-io-search-api",
     "status": "up",
-    "uptime": "4.14%",
-    "uptimeDay": "4.14%",
-    "uptimeWeek": "4.14%",
-    "uptimeMonth": "4.14%",
-    "uptimeYear": "4.14%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 251,
     "timeDay": 251,
     "timeWeek": 251,
     "timeMonth": 251,
     "timeYear": 251,
-    "dailyMinutesDown": {
-      "2021-11-27": 1
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "dev-deces.matchid.io website",
@@ -63,11 +61,11 @@
     "icon": "https://favicons.githubusercontent.com/dev-deces.matchid.io",
     "slug": "dev-deces-matchid-io-website",
     "status": "down",
-    "uptime": "1.02%",
-    "uptimeDay": "1.02%",
-    "uptimeWeek": "1.02%",
-    "uptimeMonth": "1.02%",
-    "uptimeYear": "1.02%",
+    "uptime": "0.78%",
+    "uptimeDay": "0.78%",
+    "uptimeWeek": "0.78%",
+    "uptimeMonth": "0.78%",
+    "uptimeYear": "0.78%",
     "time": 277,
     "timeDay": 277,
     "timeWeek": 277,
