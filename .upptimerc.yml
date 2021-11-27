@@ -12,7 +12,7 @@ sites:
     maxResponseTime: 2000
     __dangerous__body_down_if_text_missing: Fichier des décès
   - name: deces.matchid.io search API
-    url: https://https://deces.matchid.io/deces/api/v1/search?q=pompidou
+    url: https://deces.matchid.io/deces/api/v1/search?q=pompidou
     expectedStatusCodes: [200]
     __dangerous__body_down_if_text_missing: Pompidou
     maxResponseTime: 2000
