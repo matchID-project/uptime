@@ -10,7 +10,7 @@ sites:
     url: https://deces.matchid.io
     expectedStatusCodes: [200]
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: Fichier des décès
+    __dangerous__body_down_if_text_missing: décès
   - name: deces.matchid.io search API
     url: https://deces.matchid.io/deces/api/v1/search?q=pompidou
     expectedStatusCodes: [200]
@@ -20,7 +20,7 @@ sites:
     url: https://dev-deces.matchid.io
     expectedStatusCodes: [200]
     maxResponseTime: 2000
-    __dangerous__body_down_if_text_missing: Fichier des décès
+    __dangerous__body_down_if_text_missing: décès
   - name: dev-deces.matchid.io search API
     url: https://dev-deces.matchid.io/deces/api/v1/search?q=pompidou
     expectedStatusCodes: [200]
