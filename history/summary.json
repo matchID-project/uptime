@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/deces.matchid.io",
     "slug": "deces-matchid-io-website",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 502,
     "timeDay": 1912,
     "timeWeek": 861,
     "timeMonth": 502,
     "timeYear": 502,
-    "dailyMinutesDown": {
-      "2021-12-16": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "deces.matchid.io search API",
@@ -78,19 +76,19 @@
     "url": "https://dev-deces.matchid.io/deces/api/v1/search?q=pompidou",
     "icon": "https://favicons.githubusercontent.com/dev-deces.matchid.io",
     "slug": "dev-deces-matchid-io-search-api",
-    "status": "degraded",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 2703,
-    "timeWeek": 830,
-    "timeMonth": 432,
-    "timeYear": 432,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 421,
+    "timeDay": 1860,
+    "timeWeek": 757,
+    "timeMonth": 421,
+    "timeYear": 421,
     "dailyMinutesDown": {
-      "2021-12-16": 0
+      "2021-12-16": 9
     }
   }
 ]
