@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 227,
-    "timeWeek": 193,
-    "timeMonth": 205,
+    "timeDay": 185,
+    "timeWeek": 196,
+    "timeMonth": 206,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 367,
-    "timeDay": 386,
+    "time": 365,
+    "timeDay": 217,
     "timeWeek": 257,
-    "timeMonth": 265,
-    "timeYear": 367,
+    "timeMonth": 264,
+    "timeYear": 365,
     "dailyMinutesDown": {}
   },
   {
@@ -42,15 +42,15 @@
     "slug": "deces-matchid-io-search-api",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "98.49%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.97%",
-    "time": 295,
-    "timeDay": 1473,
-    "timeWeek": 618,
-    "timeMonth": 340,
-    "timeYear": 295,
+    "time": 294,
+    "timeDay": 243,
+    "timeWeek": 624,
+    "timeMonth": 341,
+    "timeYear": 294,
     "dailyMinutesDown": {
       "2022-01-18": 22
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 288,
-    "timeDay": 393,
-    "timeWeek": 269,
+    "time": 287,
+    "timeDay": 233,
+    "timeWeek": 271,
     "timeMonth": 285,
-    "timeYear": 288,
+    "timeYear": 287,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 287,
-    "timeDay": 266,
-    "timeWeek": 155,
-    "timeMonth": 180,
-    "timeYear": 287,
+    "time": 285,
+    "timeDay": 209,
+    "timeWeek": 167,
+    "timeMonth": 182,
+    "timeYear": 285,
     "dailyMinutesDown": {}
   }
 ]
