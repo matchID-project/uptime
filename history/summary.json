@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 223,
-    "timeDay": 117,
-    "timeWeek": 174,
-    "timeMonth": 205,
+    "timeDay": 169,
+    "timeWeek": 167,
+    "timeMonth": 195,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 418,
-    "timeWeek": 289,
-    "timeMonth": 276,
-    "timeYear": 345,
+    "time": 344,
+    "timeDay": 273,
+    "timeWeek": 292,
+    "timeMonth": 273,
+    "timeYear": 344,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 282,
-    "timeDay": 219,
-    "timeWeek": 251,
-    "timeMonth": 341,
-    "timeYear": 282,
+    "time": 281,
+    "timeDay": 213,
+    "timeWeek": 249,
+    "timeMonth": 340,
+    "timeYear": 281,
     "dailyMinutesDown": {
       "2022-01-18": 22
     }
@@ -60,35 +60,39 @@
     "url": "https://dev-deces.matchid.io",
     "icon": "https://favicons.githubusercontent.com/dev-deces.matchid.io",
     "slug": "dev-deces-matchid-io-website",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 283,
-    "timeDay": 227,
-    "timeWeek": 259,
-    "timeMonth": 286,
-    "timeYear": 283,
-    "dailyMinutesDown": {}
+    "time": 319,
+    "timeDay": 1704,
+    "timeWeek": 622,
+    "timeMonth": 369,
+    "timeYear": 319,
+    "dailyMinutesDown": {
+      "2022-02-07": 0
+    }
   },
   {
     "name": "dev-deces.matchid.io search API",
     "url": "https://dev-deces.matchid.io/deces/api/v1/search?q=pompidou",
     "icon": "https://favicons.githubusercontent.com/dev-deces.matchid.io",
     "slug": "dev-deces-matchid-io-search-api",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 269,
-    "timeDay": 197,
-    "timeWeek": 208,
-    "timeMonth": 196,
-    "timeYear": 269,
-    "dailyMinutesDown": {}
+    "time": 299,
+    "timeDay": 1449,
+    "timeWeek": 521,
+    "timeMonth": 274,
+    "timeYear": 299,
+    "dailyMinutesDown": {
+      "2022-02-07": 0
+    }
   }
 ]
