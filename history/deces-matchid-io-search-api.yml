@@ -1,7 +1,7 @@
 url: https://deces.matchid.io/deces/api/v1/search?q=pompidou
-status: degraded
+status: up
 code: 200
-responseTime: 4005
-lastUpdated: 2022-03-29T09:44:10.003Z
+responseTime: 1828
+lastUpdated: 2022-03-29T09:50:55.130Z
 startTime: Sat Nov 27 2021 12:50:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
