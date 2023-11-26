@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.matchid.io.ico",
     "slug": "www-matchid-io",
     "status": "up",
-    "uptime": "94.98%",
+    "uptime": "94.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "91.14%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "91.41%",
     "time": 288,
-    "timeDay": 462,
-    "timeWeek": 291,
-    "timeMonth": 321,
-    "timeYear": 287,
+    "timeDay": 306,
+    "timeWeek": 292,
+    "timeMonth": 329,
+    "timeYear": 288,
     "dailyMinutesDown": {
       "2023-10-27": 1301,
       "2023-10-26": 1440,
@@ -49,8 +49,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -62,13 +61,13 @@
     "uptime": "94.74%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "90.77%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "91.03%",
     "time": 324,
-    "timeDay": 349,
-    "timeWeek": 324,
-    "timeMonth": 362,
-    "timeYear": 330,
+    "timeDay": 350,
+    "timeWeek": 320,
+    "timeMonth": 372,
+    "timeYear": 331,
     "dailyMinutesDown": {
       "2023-10-27": 1301,
       "2023-10-26": 1440,
@@ -119,8 +118,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -129,16 +127,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/deces.matchid.io.ico",
     "slug": "deces-matchid-io-search-api",
     "status": "up",
-    "uptime": "94.65%",
+    "uptime": "94.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "90.81%",
-    "time": 467,
-    "timeDay": 282,
-    "timeWeek": 251,
-    "timeMonth": 239,
-    "timeYear": 492,
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "91.07%",
+    "time": 468,
+    "timeDay": 278,
+    "timeWeek": 247,
+    "timeMonth": 247,
+    "timeYear": 493,
     "dailyMinutesDown": {
       "2023-10-27": 1301,
       "2023-10-26": 1440,
@@ -188,8 +186,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -198,16 +195,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-deces.matchid.io.ico",
     "slug": "dev-deces-matchid-io-website",
     "status": "up",
-    "uptime": "94.74%",
+    "uptime": "94.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "90.81%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "91.07%",
     "time": 306,
-    "timeDay": 376,
-    "timeWeek": 349,
-    "timeMonth": 312,
-    "timeYear": 300,
+    "timeDay": 489,
+    "timeWeek": 368,
+    "timeMonth": 326,
+    "timeYear": 302,
     "dailyMinutesDown": {
       "2023-10-27": 1301,
       "2023-10-26": 1440,
@@ -258,8 +255,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -268,16 +264,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-deces.matchid.io.ico",
     "slug": "dev-deces-matchid-io-search-api",
     "status": "up",
-    "uptime": "94.75%",
+    "uptime": "94.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "90.56%",
-    "uptimeYear": "90.83%",
+    "uptimeMonth": "93.86%",
+    "uptimeYear": "91.10%",
     "time": 236,
-    "timeDay": 231,
-    "timeWeek": 192,
-    "timeMonth": 213,
-    "timeYear": 208,
+    "timeDay": 245,
+    "timeWeek": 196,
+    "timeMonth": 220,
+    "timeYear": 209,
     "dailyMinutesDown": {
       "2023-10-27": 1301,
       "2023-10-26": 1440,
@@ -327,8 +323,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   }
 ]
