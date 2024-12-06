@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 391,
-    "timeDay": 494,
-    "timeWeek": 470,
-    "timeMonth": 475,
+    "timeDay": 391,
+    "timeWeek": 453,
+    "timeMonth": 470,
     "timeYear": 422,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 358,
-    "timeDay": 383,
-    "timeWeek": 410,
-    "timeMonth": 389,
+    "timeDay": 377,
+    "timeWeek": 408,
+    "timeMonth": 393,
     "timeYear": 375,
     "dailyMinutesDown": {}
   },
@@ -47,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
     "time": 612,
-    "timeDay": 209,
-    "timeWeek": 234,
+    "timeDay": 219,
+    "timeWeek": 231,
     "timeMonth": 235,
     "timeYear": 708,
     "dailyMinutesDown": {
@@ -75,8 +75,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.66%",
     "time": 360,
-    "timeDay": 383,
-    "timeWeek": 399,
+    "timeDay": 401,
+    "timeWeek": 400,
     "timeMonth": 461,
     "timeYear": 378,
     "dailyMinutesDown": {
@@ -107,15 +107,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-deces.matchid.io.ico",
     "slug": "dev-deces-matchid-io-search-api",
     "status": "up",
-    "uptime": "94.96%",
+    "uptime": "94.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.24%",
-    "time": 1058,
-    "timeDay": 133,
-    "timeWeek": 181,
-    "timeMonth": 190,
+    "time": 1057,
+    "timeDay": 193,
+    "timeWeek": 180,
+    "timeMonth": 188,
     "timeYear": 1248,
     "dailyMinutesDown": {
       "2024-10-14": 245,
@@ -138,8 +138,7 @@
       "2024-04-02": 1440,
       "2024-04-01": 810,
       "2023-12-09": 446,
-      "2023-12-08": 1284,
-      "2023-12-07": 469
+      "2023-12-08": 1284
     }
   }
 ]
