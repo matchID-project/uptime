@@ -4,7 +4,7 @@
     "url": "https://www.matchid.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.matchid.io.ico",
     "slug": "www-matchid-io",
-    "status": "up",
+    "status": "down",
     "uptime": "96.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 453,
     "timeMonth": 487,
     "timeYear": 452,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-03-18": 0
+    }
   },
   {
     "name": "deces.matchid.io website",
