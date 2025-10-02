@@ -4,18 +4,20 @@
     "url": "https://www.matchid.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.matchid.io.ico",
     "slug": "www-matchid-io",
-    "status": "up",
+    "status": "down",
     "uptime": "97.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 483,
-    "timeDay": 409,
-    "timeWeek": 416,
-    "timeMonth": 535,
+    "timeDay": 527,
+    "timeWeek": 445,
+    "timeMonth": 538,
     "timeYear": 492,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-02": 0
+    }
   },
   {
     "name": "deces.matchid.io website",
@@ -43,7 +45,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/deces.matchid.io.ico",
     "slug": "deces-matchid-io-search-api",
     "status": "up",
-    "uptime": "97.17%",
+    "uptime": "97.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
