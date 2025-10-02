@@ -4,19 +4,19 @@
     "url": "https://www.matchid.io",
     "icon": "https://icons.duckduckgo.com/ip3/www.matchid.io.ico",
     "slug": "www-matchid-io",
-    "status": "down",
+    "status": "up",
     "uptime": "97.40%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 483,
-    "timeDay": 527,
-    "timeWeek": 445,
-    "timeMonth": 538,
-    "timeYear": 492,
+    "time": 484,
+    "timeDay": 555,
+    "timeWeek": 463,
+    "timeMonth": 541,
+    "timeYear": 493,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 15
     }
   },
   {
