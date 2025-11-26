@@ -26,9 +26,9 @@
     "slug": "deces-matchid-io-website",
     "status": "degraded",
     "uptime": "97.37%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.96%",
     "time": 470,
     "timeDay": 4899,
@@ -36,6 +36,7 @@
     "timeMonth": 608,
     "timeYear": 501,
     "dailyMinutesDown": {
+      "2025-11-26": 9,
       "2025-11-18": 186,
       "2025-08-14": 16
     }
