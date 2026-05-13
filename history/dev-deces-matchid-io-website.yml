@@ -1,7 +1,7 @@
 url: https://dev-deces.matchid.io
-status: up
+status: degraded
 code: 200
-responseTime: 1901
-lastUpdated: 2026-05-12T23:46:56.028Z
+responseTime: 2059
+lastUpdated: 2026-05-13T08:07:23.511Z
 startTime: 2021-11-27T12:50:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
