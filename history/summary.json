@@ -80,17 +80,17 @@
     "url": "https://dev-deces.matchid.io",
     "icon": "https://icons.duckduckgo.com/ip3/dev-deces.matchid.io.ico",
     "slug": "dev-deces-matchid-io-website",
-    "status": "degraded",
+    "status": "up",
     "uptime": "98.38%",
-    "uptimeDay": "41.54%",
-    "uptimeWeek": "86.05%",
-    "uptimeMonth": "74.71%",
-    "uptimeYear": "97.05%",
-    "time": 738,
-    "timeDay": 1458,
-    "timeWeek": 1339,
-    "timeMonth": 1749,
-    "timeYear": 808,
+    "uptimeDay": "42.20%",
+    "uptimeWeek": "85.10%",
+    "uptimeMonth": "74.49%",
+    "uptimeYear": "97.03%",
+    "time": 740,
+    "timeDay": 1384,
+    "timeWeek": 1332,
+    "timeMonth": 1742,
+    "timeYear": 809,
     "dailyMinutesDown": {
       "2025-06-11": 195,
       "2025-06-12": 141,
@@ -129,7 +129,8 @@
       "2026-05-18": 269,
       "2026-05-23": 48,
       "2026-05-24": 521,
-      "2026-05-25": 838
+      "2026-05-25": 842,
+      "2026-05-26": 91
     }
   },
   {
@@ -141,8 +142,8 @@
     "uptime": "96.52%",
     "uptimeDay": "37.94%",
     "uptimeWeek": "5.42%",
-    "uptimeMonth": "35.06%",
-    "uptimeYear": "93.63%",
+    "uptimeMonth": "34.82%",
+    "uptimeYear": "93.61%",
     "time": 539,
     "timeDay": 1467,
     "timeWeek": 5215,
@@ -174,7 +175,7 @@
       "2026-05-12": 1440,
       "2026-05-11": 1440,
       "2026-05-10": 1440,
-      "2026-05-25": 889,
+      "2026-05-25": 894,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -183,7 +184,8 @@
       "2026-05-19": 1440,
       "2026-05-18": 1440,
       "2026-05-17": 1440,
-      "2026-05-16": 1355
+      "2026-05-16": 1355,
+      "2026-05-26": 100
     }
   }
 ]
